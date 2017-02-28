@@ -1,0 +1,22 @@
+<svg clip-rule="evenodd" fill-rule="evenodd" height="24" image-rendering="optimizeQuality" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" viewBox="0 0 266.66667 266.66773" width="24" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<mask id="a">
+<path d="m0 0h1000v365h-1000z" fill="url(#b)"/>
+</mask>
+<linearGradient id="b" gradientUnits="userSpaceOnUse" x1="500" x2="500" y1="58.480301" y2="307.01599">
+<stop offset="0" stop-color="#fff"/>
+<stop offset=".141176" stop-color="#fff"/>
+<stop offset="1" stop-color="#fff" stop-opacity="0"/>
+</linearGradient>
+<g fill="#6d97c4" transform="matrix(.22222311 0 0 .22222311 2.1253949 .87387553)">
+<path d="m0 676v-352c0-283 41-324 324-324h352c284 0 324 41 324 324v352c0 283-40 324-324 324h-352c-283 0-324-41-324-324z" fill="#6d97c4"/>
+<path d="m0 365v-41c0-283 41-324 324-324h352c284 0 324 41 324 324v41c0-283-40-324-324-324h-352c-283 0-324 41-324 324z" fill="#6d97c4" mask="url(#a)"/>
+<path d="m373 489c0 55-7 96-21 121-16 28-43 42-81 42h-106v-313h104c35 0 60 9 75 27 19 22 29 64 29 123zm-66 4c0-43-4-72-12-87-7-13-21-20-42-20h-25v219h25c20 0 34-8 42-22 8-16 12-46 12-90zm308 70c0 29-8 51-24 66-16 15-38 23-66 23h-114v-313h112c24 0 44 6 58 17 17 14 25 34 25 61 0 21-6 38-17 50-10 11-20 17-31 19v1c12 0 24 5 35 15 15 14 22 35 22 61zm-73-136c0-27-12-41-37-41h-31v82h31c10 0 19-3 25-10 8-7 12-17 12-31zm7 131c0-32-15-48-44-48h-31v95h31c30 0 44-16 44-47zm286 94h-191c1-47 20-88 57-124l38-36c12-11 20-20 24-28 5-10 8-23 8-38 0-27-10-41-31-41-11 0-19 3-24 10-6 10-10 26-10 49h-61c0-37 8-63 25-79 15-16 39-23 72-23 62 0 93 28 93 86 0 35-12 63-35 84l-41 38c-20 18-34 36-42 52h118z" fill="#6d97c4" fill-rule="nonzero"/>
+<text fill="#fff" font-family="sans-serif" font-size="503.94992065" letter-spacing="0" line-height="125%" transform="scale(.84099571 1.1890667)" word-spacing="0" x="92.957787" xml:space="preserve" y="607.73456"><tspan x="92.957787" y="607.73456">DB2</tspan></text>
+</g>
+<g transform="matrix(7.6923386 0 0 7.6923386 21.69673 22.69158)">
+<rect fill="#5a8c5a" height="13" rx="2.6149371" ry="2.6149368" width="13" x="19" y="19"/>
+<path d="m21.6 25.499999l7.8 0" style="overflow:visible;fill:#fff;fill-rule:evenodd;stroke:#fff;stroke-width:2.5999999;stroke-linecap:round;stroke-linejoin:round"/>
+<path d="m25.5 29.399999l0-7.799999" style="overflow:visible;fill:#fff;fill-rule:evenodd;stroke:#fff;stroke-width:2.5999999;stroke-linecap:round;stroke-linejoin:round"/>
+<path d="m20.3 25.499999h10.4c0 0 0 0 0-2.6 0-2.599999-.65-2.599999-5.2-2.599999-4.55 0-5.2 0-5.2 2.599999 0 2.6 0 2.6 0 2.6z" fill="#fcffff" fill-rule="evenodd" opacity=".3"/>
+</g>
+</svg>
